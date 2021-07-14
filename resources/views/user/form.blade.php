@@ -86,10 +86,10 @@
                         <div class="form-group">
                             <label class="col-md-3 control-label"></label>
                             <div class="col-md-6 col-xs-11">
-                                <button class="btn btn-sm btn-primary colorpicker-element">
+                                <button type="submit" class="btn btn-sm btn-primary colorpicker-element">
                                     Save
                                 </button>
-                                <button class="btn btn-sm btn-default colorpicker-element">
+                                <button type="reset" class="btn btn-sm btn-default colorpicker-element">
                                     Reset
                                 </button>
                             </div>
